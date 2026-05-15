@@ -1,0 +1,7 @@
+name = "mail2telegram"
+main = "index.js"
+compatibility_date = "2025-05-15"
+
+kv_namespaces = [
+  { binding = "DB", id = "0afaa8abdc924f11be96c2ea23c290b7" }
+]
